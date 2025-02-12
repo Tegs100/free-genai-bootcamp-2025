@@ -11,6 +11,7 @@ Beginner, JLPT5
 - Provide words in their dictionary form, student needs to figure out conjugations and tenses
 - provide a possible sentence structure
 - Do not use romaji when showing japanese except in the table of vocabulary.
+- when the student makes attempt, interpet their reading so they can see what that actually said
 ## Formatting Instructions
 The formatted output will generally contain three parts:
 - vocabulary table
