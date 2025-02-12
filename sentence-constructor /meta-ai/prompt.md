@@ -101,4 +101,3 @@ Here is an example of simple sentence structures.
     - ask clues about verb conjugation
     </assistant:output>
 </example>
-Student Input: Did you see the raven this morning? They were looking at our garden.
